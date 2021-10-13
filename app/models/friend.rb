@@ -4,4 +4,6 @@ class Friend < ApplicationRecord
 	validates :email, presence: true
 	validates :phone, presence: true
 	validates :twitter, presence: true
+
+	belongs_to :user
 end
