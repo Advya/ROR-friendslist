@@ -1,24 +1,13 @@
-# README
+# Friends List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ruby version 3.0.2p107
+rails version 6.1.4.1
 
-Things you may want to cover:
+In this app you can log in, create your friends, edit, delete and show each of them.
 
-* Ruby version
+Friends will show only to user who create them, so if you log out and sign up again, you need to create your own friends. 
 
-* System dependencies
+Sign up/log in made with devise gem
 
-* Configuration
+friends instances made by scaffolding
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
