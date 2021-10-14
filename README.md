@@ -1,5 +1,7 @@
 # Friends List App
 
+deployed on heroku: https://rails-friends-734.herokuapp.com/
+
 ruby version 3.0.2p107
 rails version 6.1.4.1
 
